@@ -15,5 +15,8 @@ sh trevo.sh
 ```
 # Comandos para usar novamente 
 ```
-cd /sdcard/devsc && sh trevo.sh
+cd /sdcard/devsc 
+```
+```
+sh trevo.sh
 ```
